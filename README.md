@@ -346,7 +346,7 @@ queue.clear();
 
 ### Full Bot Example
 
-See [examples/basic-bot.js](examples/basic-bot.js) for a complete working example.
+See [discord-music-bot](https://github.com/justthendra/discord-music-bot) for a complete working example.
 
 ## Platform Support
 
@@ -408,3 +408,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Support
 
 For issues and questions, please open an issue on GitHub.
+
